@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lwjgl-3.2.3-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/lwjgl-3.2.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/lwjgl-3.2.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/lwjgl-glfw-3.2.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/lwjgl-glfw-3.2.3-natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/lwjgl-3.2.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/lwjgl-glfw-3.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

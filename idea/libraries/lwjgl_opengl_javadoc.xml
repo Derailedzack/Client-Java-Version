@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl-opengl-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/Tiger_CD1.toast_/lwjgl-stable-2020-07-09-custom/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/Tiger_CD1.toast_/lwjgl-stable-2020-07-09-custom/lwjgl-opengl.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/Tiger_CD1.toast_/lwjgl-stable-2020-07-09-custom/lwjgl-opengl-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../conf/jmc2obj/Tiger_CD1.toast_/lwjgl-stable-2020-07-09-custom/lwjgl-opengl-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

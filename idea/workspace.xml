@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa7bfaf5-269f-4623-a23c-67aed3377b81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eFH76Q3Ljy21mqVa3QJbmuoGyQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../conf/jmc2obj/Tiger_CD1.toast_/lwjgl-stable-2020-07-09-custom/lwjgl-opengl.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="net.client.Main.Main" />
+      <module name="Client(Java Version)" />
+      <option name="PROGRAM_PARAMETERS" value="-Dorg.lwjgl.util.Debug=true -Dorg.lwjgl.util.DebugLoader=true" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.client.Main.Main" />
+      <module name="Client(Java Version)" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa7bfaf5-269f-4623-a23c-67aed3377b81" name="Default Changelist" comment="" />
+      <created>1593910250696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593910250696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="118" key="#Project_Structure" timestamp="1595179992359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="211" y="118" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595179992359" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594273664930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594273664930" />
+    <state x="1245" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1595180837852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595180837852" />
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594273479642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594273479642" />
+    <state x="593" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594267937178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594267937178" />
+    <state x="267" y="237" key="FileChooserDialogImpl" timestamp="1594331801055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="237" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594331801055" />
+    <state width="457" height="347" key="GridCell.Tab.0.bottom" timestamp="1595181948152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595181948152" />
+    <state width="457" height="347" key="GridCell.Tab.0.center" timestamp="1595181948152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595181948152" />
+    <state width="457" height="347" key="GridCell.Tab.0.left" timestamp="1595181948152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595181948152" />
+    <state width="457" height="347" key="GridCell.Tab.0.right" timestamp="1595181948152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595181948152" />
+    <state width="457" height="347" key="GridCell.Tab.1.bottom" timestamp="1595181948152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595181948152" />
+    <state width="457" height="347" key="GridCell.Tab.1.center" timestamp="1595181948152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595181948152" />
+    <state width="457" height="347" key="GridCell.Tab.1.left" timestamp="1595181948152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595181948152" />
+    <state width="457" height="347" key="GridCell.Tab.1.right" timestamp="1595181948152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595181948152" />
+    <state x="921" y="620" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595179985287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="921" y="620" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1595179985287" />
+    <state x="0" y="140" key="new project wizard" timestamp="1594059751629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594059751629" />
+  </component>
+</project>
